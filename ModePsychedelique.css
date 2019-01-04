@@ -1,0 +1,25 @@
+body{
+    color: #444;
+    background-color: magenta;
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6em;
+    font-size: 18px;
+    padding: 0;
+}
+
+button{
+    float: right;
+    font-size: 22px;
+    padding: 10px;
+}
+
+p {
+    color: blue;
+    font-family: papyrus;
+}
+
+h1, h2, h3 {
+    color: green;
+    font-family: 'Comic Sans';
+}
